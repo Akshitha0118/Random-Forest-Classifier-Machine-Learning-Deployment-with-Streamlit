@@ -43,7 +43,7 @@ Random Forest introduces **two key sources of randomness** to create a diverse s
 - **Memory Intensive**: Stores multiple decision trees.
 - **Low Interpretability**: Acts as a black-box compared to single decision trees.
 
----
+----
 
 ## 🏭 Applications of Random Forest
 
